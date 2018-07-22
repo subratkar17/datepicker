@@ -1,0 +1,14 @@
+{
+  "name": "React CRUD Todo List",
+  "version": "1.0.0",
+  "description": "Attempting to make a basic CRUD app for a todo list",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/9nqnw0wx4",
+  "main": "index.js",
+  "dependencies": {
+    "react-dom": "16.0.0",
+    "react": "16.0.0",
+    "material-ui": "1.0.0-beta.29",
+    "lodash": "4.17.4"
+  }
+}
